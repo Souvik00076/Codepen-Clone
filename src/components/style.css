@@ -1,0 +1,10 @@
+
+editor-id-title-css{
+    background: red;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    place-content: center;
+    border-radius: 5px;
+    justify-content: space-;   
+}
